@@ -1,0 +1,6 @@
+{
+	"target": "toggle_terminus_panel",
+	"cmd": ["python", "$file"],
+	"working_dir": "${file_path}",
+	"auto_close": false
+}
