@@ -1,6 +1,8 @@
 # sublime-python-terminal
 Method for creating a build system that uses Terminus in Sublime to run Python code. This system runs python code through the command line, allowing you to give inputs to the code.
 
+**Please read the [disclaimer](#disclaimer) before continuing.**
+
 **Table of Contents**
 
 * [Installing Package Controller and Terminus](#package-controller)
