@@ -89,8 +89,8 @@ You can also use Alt + \` to open the terminal from the file's location.
 <a name="disclaimer"></a>
 ## Disclaimer ##
 
-- When using the build it may create a folder called `__pycache__` in the running file's location. If you know of method that avoids this, open an issue to let me know :)
+- When using the build it may create a folder called `__pycache__` in the running file's location. If you know of method that avoids this, let me know in the discussions page :)
 
-- I have not extensively tested this build. If you encounter any problems please open an issue and I will see what I can do to help.
+- I have not extensively tested this build. If you encounter any problems please comment on the discussions page and I will see what I can do to help.
 
 - I was only able to test this on a Windows 10 however I believe it may work on other operating systems.
