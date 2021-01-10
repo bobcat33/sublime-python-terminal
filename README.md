@@ -94,3 +94,6 @@ You can also use Alt + \` to open the terminal from the file's location.
 - I have not extensively tested this build. If you encounter any problems please comment on the discussions page and I will see what I can do to help.
 
 - I was only able to test this on a Windows 10 however I believe it may work on other operating systems.
+
+[Back to Top ^](#sublime-python-terminal)
+
