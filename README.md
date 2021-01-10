@@ -95,5 +95,7 @@ You can also use Alt + \` to open the terminal from the file's location.
 
 - I was only able to test this on a Windows 10 however I believe it may work on other operating systems.
 
+- **This system requires python to be saved to path.** To check this you can open command prompt and enter `python --version`.
+
 [Back to Top ^](#sublime-python-terminal)
 
