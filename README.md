@@ -93,7 +93,7 @@ You can also use Alt + \` to open the terminal from the file's location.
 
 - I have set up and tested this process on Windows 10 however I believe it should work on other operating systems.
 
-- When using the build it may create a folder called `__pycache__` in the running file's location. If you know of method that avoids this, let me know in the discussions page :)
+- When using the build it may create a folder called `__pycache__` in the running file's location. If you know of a method that avoids this, let me know in the discussions page :)
 
 - I have not extensively tested this build. If you encounter any problems please comment on the discussions page and I will see what I can do to help.
 
